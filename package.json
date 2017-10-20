@@ -1,0 +1,38 @@
+{
+  "name": "npm-fast-mirror",
+  "version": "0.0.1",
+  "description": "Fast local npm mirror",
+  "keywords": [
+    "npm",
+    "mirror",
+    "proxy",
+    "cache",
+    "registry",
+    "node",
+    "package"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cweili/npm-fast-mirror.git"
+  },
+  "author": "Cweili",
+  "license": "MIT",
+  "homepage": "https://github.com/Cweili/npm-fast-mirror",
+  "bugs": {
+    "url": "https://github.com/Cweili/npm-fast-mirror/issues"
+  },
+  "bin": {
+    "npm-fast-mirror": "./bin/npm-fast-mirror.js"
+  },
+  "dependencies": {
+    "commander": "^2.11.0",
+    "got": "^7.1.0",
+    "koa": "^2.3.0",
+    "koa-conditional-get": "^2.0.0",
+    "koa-etag": "^3.0.0",
+    "koa-router": "^7.2.1",
+    "make-dir": "^1.0.0",
+    "mz": "^2.7.0",
+    "url-parse": "^1.1.9"
+  }
+}
