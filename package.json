@@ -1,6 +1,6 @@
 {
   "name": "npm-fast-mirror",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Fast local npm registry mirror server",
   "keywords": [
     "npm",
