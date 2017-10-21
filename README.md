@@ -1,6 +1,6 @@
 # NPM Fast Mirror
 
-Local fast npm registry mirror server.
+Fast local npm registry mirror server.
 
 [![npm](https://nodei.co/npm/npm-fast-mirror.png?downloads=true&stars=true)](https://www.npmjs.com/package/npm-fast-mirror)
 

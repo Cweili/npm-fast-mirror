@@ -1,7 +1,7 @@
 {
   "name": "npm-fast-mirror",
   "version": "0.0.1",
-  "description": "Fast local npm mirror",
+  "description": "Fast local npm registry mirror server",
   "keywords": [
     "npm",
     "mirror",
@@ -34,5 +34,11 @@
     "make-dir": "^1.0.0",
     "mz": "^2.7.0",
     "url-parse": "^1.1.9"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-import-resolver-node": "^0.3.1",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
