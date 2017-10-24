@@ -31,8 +31,10 @@
     "koa-conditional-get": "^2.0.0",
     "koa-etag": "^3.0.0",
     "koa-router": "^7.2.1",
+    "lru-cache": "^4.1.1",
     "make-dir": "^1.0.0",
     "mz": "^2.7.0",
+    "send": "^0.16.1",
     "url-parse": "^1.1.9"
   },
   "devDependencies": {

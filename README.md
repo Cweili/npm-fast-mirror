@@ -6,6 +6,8 @@ Fast local npm registry mirror server.
 
 ## Install
 
+Requires Node.js >= 7.6.0.
+
 ```
 npm install npm-fast-mirror -g
 ```
