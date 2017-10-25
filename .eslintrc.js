@@ -36,7 +36,6 @@ module.exports = {
     'spaced-comment': [2, 'always', {
       exceptions: ['*', '!']
     }],
-    'require-yield': 0,
     'no-mixed-operators': [2, {
       groups: [
         '& | ^ ~ << >> >>>',

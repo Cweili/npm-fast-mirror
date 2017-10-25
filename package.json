@@ -5,10 +5,12 @@
   "keywords": [
     "npm",
     "mirror",
+    "server",
     "proxy",
     "cache",
     "registry",
     "node",
+    "modules",
     "package"
   ],
   "repository": {
