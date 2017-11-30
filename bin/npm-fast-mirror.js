@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const { join } = require('path');
 const { homedir } = require('os');
 const program = require('commander');
