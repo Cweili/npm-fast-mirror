@@ -1,8 +1,11 @@
 # NPM Fast Mirror
 
-Fast local npm registry mirror server.
+[![npm][npm-version]](npm)
+[![npm][npm-downloads]](npm)
+[![npm][npm-license]](npm)
+[![github][github-issues]](github)
 
-[![npm](https://nodei.co/npm/npm-fast-mirror.png?downloads=true&stars=true)](https://www.npmjs.com/package/npm-fast-mirror)
+Fast local npm registry mirror server.
 
 ## Install
 
@@ -35,3 +38,11 @@ npm set registry http://127.0.0.1:9000
 -d, --dir [path]   storage dir path
 -h, --help         output usage information
 ```
+
+[npm]: https://www.npmjs.com/package/npm-fast-mirror
+[npm-version]: https://img.shields.io/npm/v/npm-fast-mirror.svg
+[npm-downloads]: https://img.shields.io/npm/dt/npm-fast-mirror.svg
+[npm-license]: https://img.shields.io/npm/l/npm-fast-mirror.svg
+
+[github]: https://github.com/Cweili/npm-fast-mirror
+[github-issues]: https://img.shields.io/github/issues/Cweili/npm-fast-mirror.svg
