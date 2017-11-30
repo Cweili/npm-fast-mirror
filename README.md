@@ -1,9 +1,9 @@
 # NPM Fast Mirror
 
-[![npm][npm-version]](npm)
-[![npm][npm-downloads]](npm)
-[![npm][npm-license]](npm)
-[![github][github-issues]](github)
+[![npm][npm-version]][npm]
+[![npm][npm-downloads]][npm]
+[![npm][npm-license]][npm]
+[![github][github-issues]][github]
 
 Fast local npm registry mirror server.
 
