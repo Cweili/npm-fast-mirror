@@ -1,5 +1,7 @@
 # NPM Fast Mirror
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Cweili/npm-fast-mirror.svg)](https://greenkeeper.io/)
+
 [![npm][npm-version]][npm]
 [![npm][npm-downloads]][npm]
 [![npm][npm-license]][npm]
